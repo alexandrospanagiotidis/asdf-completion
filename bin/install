@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# nothing to do
+printf -- "Nothing to install; pure asdf plugin"
